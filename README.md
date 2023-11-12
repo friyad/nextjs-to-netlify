@@ -6,7 +6,7 @@ npm install -g netlify-cli
 ```
 - Then you have to log in to your netlify account
 ```
-  ntl login
+ntl login
 ```
 - Install this package to your next js application
 ```
