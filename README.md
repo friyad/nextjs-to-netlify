@@ -3,7 +3,7 @@
 - At first, you have to install netlify-cli globaly `npm install -g netlify-cli`
 - Then you have to log in to your netlify account `ntl login`
 - Install this package to your next js application `npm i -D @netlify/plugin-nextjs`
-- Then create a file named **netlify.toml** in your project root
+- Then create a file named `netlify.toml` in your project root
 - Put this code on this file
 ```
 [[plugins]]
