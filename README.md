@@ -1,4 +1,4 @@
-# How to deploy a next js application to Netlify using the command line?
+![image](https://github.com/friyad/nextjs-to-netlify/assets/86700138/40fae617-c9f3-4c6c-b518-893e96747da5)# How to deploy a next js application to Netlify using the command line?
 
 - At first, you have to install netlify-cli globaly
 ```
@@ -30,3 +30,5 @@ netlify deploy --build --prod
 - And provide the necessary information
 ![Netlify Deploy Image](https://i.ibb.co/TrN2GnP/netlify-deploy.png)
 
+- Wow! Wow! and Wow finally you deployed your next js application to netlify
+![Netlify Deploy Completed Image](https://i.ibb.co/Tk6tKny/deploy-completed.png)
